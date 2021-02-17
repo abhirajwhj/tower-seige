@@ -1,0 +1,7 @@
+gameDesign principle
+1.playing character/player has to move the polygon 
+2.player can hit the tower as many times he wants
+3.feedback/score,add sound,
+4.adaptivity/creating multiple towers for the player
+5.to build new buildings and houses
+6.rules/player wins after making 500 score
